@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.myWidth{
+    width: 72.5%;
+}
+
+/* .myH{
+    height: 100vh;
+} */
